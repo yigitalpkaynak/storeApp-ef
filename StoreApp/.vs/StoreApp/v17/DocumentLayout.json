@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valia\\OneDrive\\Masa\u00FCst\u00FC\\coding\\aspnetcore\\StoreApp\\StoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9767CA4-9348-4B7F-B9AB-32453C97D591}|StoreApp.Web\\StoreApp.Web.csproj|c:\\users\\valia\\onedrive\\masa\u00FCst\u00FC\\coding\\aspnetcore\\storeapp\\storeapp\\storeapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9767CA4-9348-4B7F-B9AB-32453C97D591}|StoreApp.Web\\StoreApp.Web.csproj|solutionrelative:storeapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\valia\\OneDrive\\Masa\u00FCst\u00FC\\coding\\aspnetcore\\StoreApp\\StoreApp\\StoreApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StoreApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\valia\\OneDrive\\Masa\u00FCst\u00FC\\coding\\aspnetcore\\StoreApp\\StoreApp\\StoreApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StoreApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:42:20.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
